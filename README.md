@@ -1,3 +1,4 @@
+
 # AI Credit Evaluation System (Case 1)
 
 ## Project Overview
@@ -52,3 +53,7 @@ The system provides human‑readable explanations along with each credit decisio
 ---
 
 ## Project Structure
+=======
+# AI-credit-evaluation
+AI-based Credit Risk Evaluation System 
+
