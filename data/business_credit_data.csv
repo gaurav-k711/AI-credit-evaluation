@@ -1,0 +1,12 @@
+business_type,years_in_operation,annual_revenue,monthly_cashflow,loan_amount_requested,credit_score,existing_loans,debt_to_income_ratio,collateral_value,repayment_history,default_flag
+Manufacturing,6,1500000,120000,300000,780,1,0.22,600000,Good,0
+Services,2,450000,25000,350000,620,2,0.58,120000,Poor,1
+Retail,5,900000,70000,250000,720,1,0.30,400000,Good,0
+Services,4,600000,40000,300000,650,2,0.45,200000,Average,1
+Manufacturing,8,1800000,140000,450000,800,0,0.20,800000,Good,0
+Trading,3,500000,30000,350000,610,2,0.55,150000,Poor,1
+Retail,6,1100000,85000,300000,750,1,0.28,450000,Good,0
+Services,2,400000,25000,320000,600,3,0.60,100000,Poor,1
+Manufacturing,12,3000000,220000,600000,830,0,0.15,1200000,Good,0
+Trading,4,650000,45000,280000,670,1,0.42,250000,Average,1
+
